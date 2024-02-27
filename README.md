@@ -37,4 +37,11 @@ Tag "9": Unrelated Articles (These are articles that are unrelated to Pregnancy)
 **Overall or Two-step:**
 This model is a combination of Model 1 and Model 2.
 
-Contact: Zhaoyi Sun (zhs4003[at]med[dot]cornell[dot]edu) or Braja Gopal Patra (brajagopal[dot]cse[at]gmail[dot]com)
+## Reference
+
+Please cite the following paper if you find this code is useful.
+
+Patra, Braja Gopal, et al. "Automated classification of lay health articles using natural language processing: a case study on pregnancy health and postpartum depression." *Frontiers in Psychiatry* 14 (2023): 1258887. [link](https://doi.org/10.3389/fpsyt.2023.1258887)
+
+
+Contact: Braja Gopal Patra (brajagopal[dot]cse[at]gmail[dot]com) or Zhaoyi Sun (zhs4003[at]med[dot]cornell[dot]edu)
